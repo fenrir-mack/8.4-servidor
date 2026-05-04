@@ -1,0 +1,4 @@
+{"titulo": "eeeeee", "autor": "Autor A", "editora": "teste", "categoria": "Fantasia"}
+{"titulo": "vbbbbbbb", "autor": "Autor B", "editora": "teste2", "categoria": "fantasia"}
+{"titulo": "teste", "autor": "teste", "editora": "teste", "categoria": "teste"}
+{"titulo": "teste 3", "autor": "teste 3", "editora": "teste 3", "categoria": "teste 3"}
